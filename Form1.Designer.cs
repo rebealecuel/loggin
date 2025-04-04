@@ -64,6 +64,7 @@
             // 
             this.txbContraseña.Location = new System.Drawing.Point(158, 108);
             this.txbContraseña.Name = "txbContraseña";
+            this.txbContraseña.PasswordChar = '*';
             this.txbContraseña.Size = new System.Drawing.Size(90, 20);
             this.txbContraseña.TabIndex = 3;
             // 
